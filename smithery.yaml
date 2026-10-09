@@ -1,0 +1,25 @@
+name: voiceforge-mcp
+displayName: VoiceForge - Autonomous Voice AI Agents, Real-Time Speech Pipelines & Telephony Engine MCP
+description: Universal voice AI engine for Cursor, Claude Code & Windsurf. Architects complete voice agent blueprints (OpenAI Realtime vs Pipecat vs LiveKit matrix, sub-800ms latency budgets), generates production speech pipelines (Pipecat bots with barge-in, Twilio Media Streams bridges, WebRTC clients), designs human-feeling conversation flows (voice-optimized prompts, error recovery ladders, data capture), optimizes voice-to-voice latency with streaming fixes, and deploys to phone numbers with compliance checklists and unit economics.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/voiceforge-mcp
+repository: https://github.com/AmyGraphics/voiceforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/voiceforge-mcp/main/icon.png
+keywords:
+  - voice-ai
+  - voice-agents
+  - speech-to-text
+  - text-to-speech
+  - telephony
+  - twilio
+  - pipecat
+  - livekit
+  - openai-realtime
+  - webrtc
+  - conversational-ai
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://voiceforge-api.agentweb-hub.workers.dev/mcp

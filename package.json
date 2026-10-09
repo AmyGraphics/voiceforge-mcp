@@ -1,0 +1,9 @@
+{
+  "name": "voiceforge-mcp",
+  "version": "1.0.0",
+  "description": "Autonomous Voice AI Agents, Real-Time Speech Pipelines (STT/LLM/TTS), Conversation Design, Latency Optimization & Telephony Deployment Engine MCP for Cursor, Claude & Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}
